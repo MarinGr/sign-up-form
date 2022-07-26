@@ -25,6 +25,10 @@ body {
   );
 }
 
+input {
+  font-family: inherit;
+}
+
 .container {
   display: flex;
   justify-content: center;
